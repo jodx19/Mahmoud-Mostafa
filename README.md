@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://github.com/jodx19/Mahmoud-Mostafa/blob/main/A_digital_graphic_design_banner_introduces_Mahmoud.png" alt="Mahmoud Mostafa Banner" width="100%">
+  <img src="https://github.com/jodx19/Mahmoud-Mostafa/blob/main/mahmoudmostafa.png?raw=true" alt="Mahmoud Mostafa Banner" width="100%">
 </p>
+
 
 
 <h1 align="center">👋 Hi, I'm Mahmoud Mostafa</h1>

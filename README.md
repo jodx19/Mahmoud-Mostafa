@@ -34,18 +34,24 @@
 
 ---
 
-### 💼 Featured Projects
+### 💼 Featured Projects  
+
 <p align="center">
-  <a href="https://github.com/jodx19/Movie-App" title="Movie App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jodx19&repo=Movie-App&theme=tokyonight" alt="Movie-App" />
+  <a href="https://github.com/EraQii94/Js-Ecommerce-Project" title="JS E-Commerce Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EraQii94&repo=Js-Ecommerce-Project&theme=tokyonight" alt="JS E-Commerce Project" />
   </a>
-  <a href="https://github.com/jodx19/ToDo-List-App" title="ToDo List App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jodx19&repo=ToDo-List-App&theme=tokyonight" alt="ToDo-List-App" />
-  </a>
-  <a href="https://github.com/jodx19/One-Page-Website" title="One Page Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jodx19&repo=One-Page-Website&theme=tokyonight" alt="One-Page-Website" />
-  </a>
+  <br>
+  🛒 <em>Dynamic shopping experience built with Vanilla JavaScript and Local Storage.</em>
 </p>
+
+<p align="center">
+  <a href="https://github.com/jodx19/hosto-landing-page" title="Hosto Landing Page">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jodx19&repo=hosto-landing-page&theme=tokyonight" alt="Hosto Landing Page" />
+  </a>
+  <br>
+  🌐 <em>Responsive landing page with modern UI, smooth animations, and clean layout.</em>
+</p>
+
 
 ---
 

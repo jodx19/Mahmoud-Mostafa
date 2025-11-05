@@ -67,19 +67,34 @@
 
 ---
 
-### 🎓 Certificates
-<p align="center">
-  🧾 <em>Coming Soon – Certificates from ITI, Udemy, and More!</em>
-</p>
+### 🎓 Certificates  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20.NET%20Track%20(ITI)-FF6F00?style=for-the-badge&logo=readthedocs&logoColor=white" alt="ITI"/>
-  <img src="https://img.shields.io/badge/Front%20End%20Development-006699?style=for-the-badge&logo=angular&logoColor=white" alt="Front End"/>
-  <img src="https://img.shields.io/badge/Back%20End%20with%20ASP.NET%20Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white" alt="Back End"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20.NET%20Track%20(ITI)-FF6F00?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Full Stack .NET"/>
+  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-007ACC?style=for-the-badge&logo=c-sharp&logoColor=white" alt="OOP Certificate"/>
+  <img src="https://img.shields.io/badge/OpenAI%20GPTs%20Course-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI GPTs Course"/>
 </p>
 
+---
+
+#### 🧩 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_ITI.svg" width="20"/> Object Oriented Programming Certificate  
+- 🏫 **Information Technology Institute (ITI)**  
+- 📅 *Completion Date:* 2025  
+- 🧾 [View Certificate](https://drive.google.com/file/d/1MvnQhEw2baeM68IlfdQpDRF6SuQBwcnP/view?usp=sharing)  
+
+---
+
+#### 🤖 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Coursera_logo.svg" width="22"/> OpenAI GPTs: Creating Your Own Custom AI Assistants  
+- 🏛️ **Vanderbilt University (via Coursera)**  
+- 👤 *Instructor:* Dr. Jules White – Professor, Department of Computer Science  
+- 📅 *Completion Date:* **Nov 5, 2025**  
+- 🔗 [Verify on Coursera](https://coursera.org/verify/TWGVSDITC7V1)  
+- 🧾 [View Certificate (PDF)](https://drive.google.com/file/d/1L5PED2xaLnmWmLgH1h7QyoyHCpf8Fb1B/view?usp=drive_link)
+
+---
+
 <p align="center">
-  📤 Once official certificates are available, they will be added below as viewable links and badges.
+  🧾 <em>More certificates coming soon — including Full Stack .NET and Angular specialization!</em>
 </p>
 
 ---

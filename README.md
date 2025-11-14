@@ -42,6 +42,9 @@
   </a>
   <a href="https://github.com/amralmohamdy/Movie-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=amralmohamdy&repo=Movie-App&theme=tokyonight" />
+     <p style="margin:8px 0 0; font-size:13px; line-height:1.2;">
+      <strong>CineVue MovieApp</strong> — Fast, multilingual movie browser built with Angular 20 and TMDB API. Wishlist, search, trailers & Firebase auth. <ahref="https://lnkd.in/dWpfWdiX">Live demo</a>
+    </p>
   </a>
 </p>
 

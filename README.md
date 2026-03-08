@@ -113,16 +113,6 @@ I am a Full Stack .NET developer with a background in dentistry who transitioned
 
 ---
 
-## GitHub stats
-<p align="center">
-  <img src="https://github-readme-stats-jodx19.vercel.app/api?username=jodx19&show_icons=true&theme=tokyonight" alt="Mahmoud's GitHub stats" />
-  <img src="https://github-readme-stats-jodx19.vercel.app/api/top-langs/?username=jodx19&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
-
-
----
-
 ## Certificates & Education
 - **Full Stack .NET Track (ITI)** — completed.  
 - **Object Oriented Programming (ITI)** — Completion: 2025.  

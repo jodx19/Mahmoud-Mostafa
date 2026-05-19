@@ -19,41 +19,71 @@
 
 ##  About Me
 
-<div align="right">
-  <b>مرحباً! أنا محمود مصطفى</b> — مطور Full Stack .NET من مصر، شغوف ببناء أنظمة قوية ونظيفة.
-</div>
-<br/>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" colspan="2">
+        <h2>👋 مرحباً! أنا محمود مصطفى</h2>
+        <p><i>مطور Full Stack .NET من مصر — شغوف ببناء أنظمة قوية ونظيفة</i></p>
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <table>
+    <tr>
+      <td width="55%" valign="top">
 
-> **Full Stack .NET developer** with a unique journey — from **Doctor of Dental Surgery** to software engineer via **ITI's intensive program**. This background forged a disciplined, precise approach to problem-solving and a commitment to clean, maintainable architecture.
+### 💫 Who I Am
+> **Full Stack .NET developer** with a story. From **Dentistry** to software engineer via **ITI's intensive program** — I traded drills for design patterns, surgical precision for clean code. The result? A developer who treats every project with the same discipline I learned in the operating room.
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+#### 🎯 Core Focus
+| Area | Stack |
+|:---|:---|
+| **Backend** | .NET Core, C#, REST APIs, Clean Architecture, EF Core |
+| **Frontend** | Angular, React, TypeScript, JavaScript, Tailwind, Bootstrap |
+| **Database** | SQL Server, T-SQL, DB Design & Optimization |
+| **Tools** | Git, GitHub, VS, VS Code |
 
-###  What I Do
-- **Backend**: .NET Core, C#, REST APIs, Clean Architecture, Entity Framework
-- **Frontend**: Angular, React, TypeScript, JavaScript, Tailwind, Bootstrap
-- **Database**: SQL Server, T-SQL, Database Design & Optimization
-- **Tools**: Git, GitHub, VS, VS Code
+      </td>
+      <td width="45%" valign="top">
 
-    </td>
-    <td valign="top" width="50%">
-
-###  Quick Facts
+### 📋 Snapshot
 ```yaml
-name: Mahmoud Mostafa
-location: Egypt
-education:
+👤 name: Mahmoud Mostafa
+📍 location: Egypt 🇪🇬
+🎓 education:
   - Full Stack .NET @ ITI
-  - Doctor of Dental Surgery
-mindset: Lifelong learner
-focus: Clean Architecture & Scalable Systems
-open_to: Freelance | Collaboration | Full-time
+  - faculty of Dentistry
+🧠 mindset: Lifelong learner
+🎯 focus: Clean Architecture & Scalable Systems
+🚀 status: Open for opportunities
 ```
 
-    </td>
-  </tr>
-</table>
+### 📈 Journey
+```text
+🦷 Dentistry        ██████████████████████████░░░  85%
+💻 ITI Training     ██████████████████████████████  95%
+🚀 .NET Development ███████████████████████████████ 100%
+📚 Always Learning  ███████████████████████████████ 100%
+```
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🧑‍💻%203%2B%20Years%20Coding-181717?style=for-the-badge" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🎯%20Clean%20Code%20Advocate-512BD4?style=for-the-badge" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🌍%20Open%20to%20Work-0891B2?style=for-the-badge" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 

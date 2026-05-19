@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://github.com/jodx19/Mahmoud-Mostafa/blob/main/mahmoudmostafa.png?raw=true" alt="Mahmoud Mostafa Banner" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&center=true&vCenter=true&width=700&lines=Mahmoud+Mostafa;Full+Stack+.NET+Developer;Clean+Architecture+%7C+Scalable+Systems;From+Dentistry+to+Software+Engineering" alt="Typing SVG" />
 </div>
 

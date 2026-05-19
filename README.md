@@ -1,230 +1,203 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=700&center=true&vCenter=true&width=700&lines=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+%D8%A7%D9%86%D8%A7+%D9%85%D8%AD%D9%85%D9%88%D8%AF+%D9%85%D8%B5%D8%B7%D9%81%D9%89;Mahmoud+Mostafa;Full+Stack+.NET+Developer;Clean+Architecture+%7C+Scalable+Systems;From+Dentistry+to+Software+Engineering" alt="Typing SVG" />
+  <img src="https://github.com/jodx19/Mahmoud-Mostafa/blob/main/mahmoudmostafa.png?raw=true" alt="Mahmoud Mostafa Banner" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&center=true&vCenter=true&width=700&lines=Mahmoud+Mostafa;Full+Stack+.NET+Developer;Clean+Architecture+%7C+Scalable+Systems;From+Dentistry+to+Software+Engineering" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-mostafa-824169244">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:elsafi19_dx72@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;
   <a href="https://github.com/jodx19">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=jodx19&style=for-the-badge&color=0891b2" alt="Profile Views"/>
 </p>
 
 ---
 
-##  About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<div align="right">
-  <b>مرحباً! أنا محمود مصطفى</b> — مطور Full Stack .NET من مصر، شغوف ببناء أنظمة قوية ونظيفة.
-</div>
+### 👋 مرحبا، أنا محمود مصطفى
+
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/src/coding.gif?raw=true" width="320" alt="coding" />
+
+I'm a **Full Stack .NET developer** — a dentist-turned-coder who discovered that the precision of surgery pairs perfectly with the logic of software engineering. After transitioning through the intensive **ITI Full Stack .NET Track**, I now build clean, scalable, and maintainable web applications.
+
+<br clear="right"/>
+
+| | |
+|---|---|
+| <img src="https://img.shields.io/badge/👤%20Name-Mahmoud%20Mostafa-58A6FF?style=flat-square" /> | <img src="https://img.shields.io/badge/📍%20Location-Egypt%20🇪🇬-58A6FF?style=flat-square" /> |
+| <img src="https://img.shields.io/badge/🎓%20Education-ITI%20Full%20Stack%20.NET-512BD4?style=flat-square" /> | <img src="https://img.shields.io/badge/🦷%20Background-Dental%20Surgery-8B4513?style=flat-square" /> |
+| <img src="https://img.shields.io/badge/💡%20Philosophy-Clean%20Code%20·%20Clean%20Architecture-239120?style=flat-square" /> | <img src="https://img.shields.io/badge/🚀%20Status-Open%20to%20Opportunities-0891B2?style=flat-square" /> |
+
 <br/>
 
-> **Full Stack .NET developer** with a unique journey — from **Doctor of Dental Surgery** to software engineer via **ITI's intensive program**. This background forged a disciplined, precise approach to problem-solving and a commitment to clean, maintainable architecture.
+<details open>
+  <summary><b>📋 Quick Bio</b></summary>
+  <br/>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-###  What I Do
-- **Backend**: .NET Core, C#, REST APIs, Clean Architecture, Entity Framework
-- **Frontend**: Angular, React, TypeScript, JavaScript, Tailwind, Bootstrap
-- **Database**: SQL Server, T-SQL, Database Design & Optimization
-- **Tools**: Git, GitHub, VS, VS Code
-
-    </td>
-    <td valign="top" width="50%">
-
-###  Quick Facts
 ```yaml
 name: Mahmoud Mostafa
-location: Egypt
-education:
-  - Full Stack .NET @ ITI
-  - Doctor of Dental Surgery
-mindset: Lifelong learner
-focus: Clean Architecture & Scalable Systems
-open_to: Freelance | Collaboration | Full-time
+location: Egypt 🇪🇬
+background:
+  - 🎓 ITI Full Stack .NET Track (Graduate)
+  - 🦷 Doctor of Dental Surgery (Previous)
+philosophy:
+  clean_code: true
+  lifelong_learning: true
+  user_first: true
+open_to: Freelance · Collaboration · Full-time Roles
 ```
+</details>
 
-    </td>
-  </tr>
-</table>
+<br/>
 
----
-
-##  Tech Stack
-
-<div align="center">
-
-### Backend
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"/></code>
-
-### Frontend
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/></code>
-
-### Database & Tools
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code"/></code>
-
-</div>
-
----
-
-##  GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jodx19&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jodx19&layout=compact&langs_count=8&theme=react&border_radius=10" />
+<details close>
+  <summary><b>⏳ My Journey</b></summary>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jodx19&theme=react&border_radius=10" alt="GitHub Streak" />
+
+```text
+🦷 Dentistry        ██████████████████████████████░░░░░  90%  ← Previous career
+💻 ITI Training     ██████████████████████████████████░  95%  ← Intensive program
+🚀 .NET Development ███████████████████████████████████  100% ← Current focus
+📚 Continuous       ███████████████████████████████████  100% ← Always learning
+```
+</details>
+
+---
+
+## 🛠️ Tech Stack
+
+<details open>
+  <summary><b>Backend</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs&theme=light" />
+    <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>Frontend</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,tailwind,bootstrap" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>Database & Tools</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=mssql,git,github,vscode,visualstudio" />
+  </p>
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jodx19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jodx19&layout=compact&langs_count=8&theme=tokyonight&border_radius=12" />
+</div>
+
+<div align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=jodx19&theme=tokyonight&border_radius=12" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=jodx19&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+  <a href="https://github.com/jodx19/Simple-Erp-System">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jodx19&repo=Simple-Erp-System&theme=tokyonight&border_radius=12" width="45%" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/jodx19/safistore-front-end-angular-">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jodx19&repo=safistore-front-end-angular-&theme=tokyonight&border_radius=12" width="45%" />
+  </a>
+
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jodx19&theme=react-dark&bg_color=0d1117&hide_border=true&border_radius=10" width="95%" alt="Activity Graph" />
+
+  <a href="https://github.com/amralmohamdy/Movie-App">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=amralmohamdy&repo=Movie-App&theme=tokyonight&border_radius=12" width="45%" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/jodx19/DigitalNotesManager">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jodx19&repo=DigitalNotesManager&theme=tokyonight&border_radius=12" width="45%" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/jodx19/SQL-ExaminationSystemDB">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jodx19&repo=SQL-ExaminationSystemDB&theme=tokyonight&border_radius=12" width="45%" />
+  </a>
+
 </div>
 
 ---
 
-##  Featured Projects
+## 📜 Certifications
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <div align="center">
-          <h3>🛒 Safistore</h3>
-          <p><strong>Angular · TypeScript</strong></p>
-          <p>E-commerce front-end with product catalog, cart UI, and seamless browsing experience.</p>
-          <p>
-            <a href="https://github.com/jodx19/safistore-front-end-angular-">
-              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <div align="center">
-          <h3>🏭 Simple ERP System</h3>
-          <p><strong>TypeScript · Angular</strong></p>
-          <p>Enterprise resource planning system for managing business operations and workflows.</p>
-          <p>
-            <a href="https://github.com/jodx19/Simple-Erp-System">
-              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-          </p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <div align="center">
-          <h3>🎬 Movie App</h3>
-          <p><strong>TypeScript · API Integration</strong></p>
-          <p>Movie browsing app consuming external APIs with clean UI and responsive design.</p>
-          <p>
-            <a href="https://github.com/amralmohamdy/Movie-App">
-              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <div align="center">
-          <h3>📝 Digital Notes Manager</h3>
-          <p><strong>JavaScript · CRUD</strong></p>
-          <p>Desktop-style notes manager with full CRUD operations and local persistence.</p>
-          <p>
-            <a href="https://github.com/jodx19/DigitalNotesManager">
-              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-          </p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" colspan="2">
-        <div align="center">
-          <h3>🗄️ SQL Examination System DB</h3>
-          <p><strong>TSQL · Database Design</strong></p>
-          <p>SQL Server database for managing online examinations — includes tables, views, stored procedures, and complex relationships.</p>
-          <p>
-            <a href="https://github.com/jodx19/SQL-ExaminationSystemDB">
-              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Full%20Stack%20.NET%20Track-ITI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/OOP-ITI-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  </a>
+  <br/><br/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Database%20Fundamentals-ITI-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Custom%20AI%20Assistants-Vanderbilt%20%7C%20Coursera-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+  </a>
+
 </div>
 
 ---
 
-##  Certifications
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Full%20Stack%20.NET%20Track-ITI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/OOP-ITI-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Database%20Fundamentals-ITI-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/OpenAI%20GPTs-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-##  Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-mostafa-824169244">
     <img src="https://img.shields.io/badge/LinkedIn_Mahmoud_Mostafa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:elsafi19_dx72@yahoo.com">
-    <img src="https://img.shields.io/badge/Send_Email-6D4AFF?style=for-the-badge&logo=mail.ru&logoColor=white" />
+    <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://github.com/jodx19">
     <img src="https://img.shields.io/badge/GitHub_@jodx19-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<details align="center">
-  <summary><b>📄 Click for English</b></summary>
-  <br/>
-  <p>
-    I'm a Full Stack .NET developer from Egypt, passionate about building clean, scalable systems. 
-    My background in dentistry taught me precision and discipline — now I bring that same rigor to software engineering.
-  </p>
-  <p>
-    <b>Let's build something great together!</b>
-  </p>
-</details>
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=100&section=footer" width="100%" />
+</div>

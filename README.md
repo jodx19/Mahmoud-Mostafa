@@ -31,7 +31,7 @@
   <br/>
   <table>
     <tr>
-      <td width="55%" valign="top">
+     
 
 ### 💫 Who I Am
 > **Full Stack .NET developer** with a story. From **Dentistry** to software engineer via **ITI's intensive program** — I traded drills for design patterns, surgical precision for clean code. The result? A developer who treats every project with the same discipline I learned in the operating room.

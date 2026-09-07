@@ -34,7 +34,7 @@
 |:---|:---|
 | **Backend** | .NET 8/9, C#, Clean Architecture, CQRS + MediatR, EF Core, REST APIs |
 | **Frontend** | Angular (Standalone + Signals), React, TypeScript, Tailwind |
-| **Data & Infra** | SQL Server, Redis, Hangfire (background jobs), Docker |
+| **Data & Infra** | SQL Server, Redis, Graph DB (Neo4j / openCypher), Hangfire (background jobs), Docker |
 | **Integrations** | Twilio (WhatsApp), Groq / LLM APIs, vector search |
 | **Tools** | Git/GitHub, Visual Studio, VS Code |
 
@@ -95,6 +95,7 @@ status: open to opportunities 🚀
 **Database, AI & Tools**
 <br/>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server"/></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="Neo4j"/></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"/></code>
@@ -139,15 +140,52 @@ A production-grade EMR platform built to take a single clinic pilot to a true mu
 </tr>
 
 <tr>
+<td colspan="2">
+
+#### 🕸️ Patient Referral Network — Graph Database Platform
+**CognoDB (Neo4j-compatible) · openCypher · Clean Architecture**
+
+Built under a 48-hour take-home deadline for an AI engineering role: a healthcare referral-network explorer on a graph database — a patient pathway view, multi-hop Cypher traversal queries, and an analytics dashboard on top of a documented graph data model.
+
+<a href="https://github.com/jodx19/Wexa-AI-Assessment"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🦷 Maxilla Dental Store
+**Angular/TypeScript · .NET**
+
+Freelance client project — an e-commerce storefront for a dental supply business. The kind of project where the dentistry background isn't a footnote: it shaped the product decisions.
+
+<img src="https://img.shields.io/badge/Private_Repo-374151?style=for-the-badge&logo=github&logoColor=white" />
+
+</td>
 <td width="50%">
 
 #### 🛒 SafiStore
 **Angular 17+ · .NET · Glassmorphism UI**
 
-Full e-commerce application with an interconnected storefront and admin dashboard — product catalog, cart, and a custom dark/purple design system.
+Full e-commerce application with an interconnected storefront, admin dashboard, and a custom dark/purple design system — frontend and backend built as separate, independently deployable projects.
 
 <a href="https://safistore.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/jodx19/safistore-front-end-angular-"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/jodx19/safistore-front-end-angular-"><img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/jodx19/SafiStore-Backend-API"><img src="https://img.shields.io/badge/API-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🔒 JWT Header Information Disclosure
+**ASP.NET Core · Security Research**
+
+A documented reproduction of a `WWW-Authenticate` header information-disclosure issue in JWT-based ASP.NET Core authentication, with clear repro steps and mitigation — the kind of thing you write up when you don't just fix a bug, you understand it.
+
+<a href="https://github.com/jodx19/jwt-security-header-leak"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%">
@@ -175,19 +213,6 @@ Enterprise resource planning system for managing business operations and interna
 </td>
 <td width="50%">
 
-#### 🎟️ Ticket Reseat
-**ITI Graduation Project**
-
-Stadium seat-booking platform: team selection flow into a zone-priced interactive seat map.
-
-<img src="https://img.shields.io/badge/Private_Repo-374151?style=for-the-badge&logo=github&logoColor=white" />
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-
 #### 🗄️ SQL Examination System DB
 **T-SQL · Database Design**
 
@@ -200,6 +225,21 @@ SQL Server database for online examinations — tables, views, stored procedures
 
 </table>
 </div>
+
+<details>
+<summary align="center"><b>🧰 Also built — freelance & practice work</b></summary>
+<br/>
+<div align="center">
+
+<a href="https://github.com/jodx19/Art4Print"><img src="https://img.shields.io/badge/Art4Print-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/jodx19/El-Wad-Premium-Landing-Page"><img src="https://img.shields.io/badge/El_Wad_Premium-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/jodx19/royal-stay-hotel-landing-freelance"><img src="https://img.shields.io/badge/Royal_Stay_Hotel-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/jodx19/Dental-Landing-page"><img src="https://img.shields.io/badge/Dental_Landing_Page-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/jodx19/El-mo3rad"><img src="https://img.shields.io/badge/El_mo3rad-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Ticket_Reseat_(ITI_Grad,_Private)-374151?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
+</details>
 
 ---
 

@@ -25,10 +25,6 @@
 >
 > That's how I build software: **Clean Architecture**, deliberate data modeling, and a habit of checking my own work before I call it done — because in the OR and in production, "probably fine" isn't good enough.
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 #### 🎯 What I Actually Build
 | Layer | Stack |
 |:---|:---|
@@ -41,8 +37,7 @@
 #### 🩺 The Differentiator
 Most .NET developers have never sat across from a patient. I have — and it shapes how I design healthtech products: real clinical workflows, real data-sensitivity instincts, real understanding of what a clinic actually needs from software.
 
-</td>
-<td width="45%" valign="top">
+<div align="center">
 
 ```yaml
 name: Mahmoud Mostafa (Safi)
@@ -58,15 +53,11 @@ focus: multi-tenant SaaS, Clean Architecture,
 status: open to opportunities 🚀
 ```
 
-<div align="center">
-<img src="https://img.shields.io/badge/🩺%20Dentistry%20→%20Code-512BD4?style=for-the-badge" /><br/><br/>
-<img src="https://img.shields.io/badge/🏗️%20Clean%20Architecture-239120?style=for-the-badge" /><br/><br/>
+<img src="https://img.shields.io/badge/🩺%20Dentistry%20→%20Code-512BD4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🏗️%20Clean%20Architecture-239120?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🌍%20Open%20to%20Work-0891B2?style=for-the-badge" />
-</div>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
